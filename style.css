@@ -1,0 +1,15 @@
+#main{
+    margin: 0px auto;
+    position: absolute;
+}
+
+img{
+    display: none;
+}
+
+#gameDiv{
+    margin: 0px auto;
+    height: 600px;
+    width: 800px;
+    border: 1px solid black;
+}
